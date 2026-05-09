@@ -35,20 +35,27 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 ## 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Web:**  
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Modelagem & Cultura Maker:**
+<br>
+
+**Modelagem & Cultura Maker:**  
+<br>
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-F06422?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/Corte_a_Laser_CNC-333333?style=for-the-badge" /> *(Ex: RDWorks)*
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Corte_a_Laser_CNC-333333?style=for-the-badge" /> *(RDWorks)*
+
+<br>
 
 **Infraestrutura & Ferramentas:**  
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
 ---
 
 ## 📊 Estatísticas do GitHub
