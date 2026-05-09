@@ -1,7 +1,7 @@
 # Olá, eu sou o Luis Felipe! 👋
 
 <!-- Animação de texto estilo Helio (ajuste os textos conforme preferir) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Entusiasta+da+Cultura+Maker;Técnico+em+Redes+de+Computadores;Estudante+de+Sistemas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+Formação;Entusiasta+da+Cultura+Maker;Técnico+em+Redes+de+Computadores;Estudante+de+Análise+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
 
 <div align="center">
   <!-- Badges de contato estilo Helio -->
@@ -26,11 +26,11 @@ Sou um profissional de tecnologia focado em unir o desenvolvimento de software c
 
 Aqui estão algumas das iniciativas em que aplico meus conhecimentos técnicos e acadêmicos:
 
-**[Gráficos Táteis para Acessibilidade](#)** *(Link para o repositório ou documentação, se houver)*
+**[Gráficos Táteis para Acessibilidade]**
 Projeto de extensão focado na criação de materiais didáticos acessíveis. 
 * **Destaque:** Utilização de conceitos matemáticos e ferramentas maker para desenvolver gráficos e recursos visuais táteis, promovendo a inclusão de pessoas com necessidades específicas de acessibilidade.
 
-**[Jovens Cientistas em Ação](#)** *(Link para o repositório ou site, se houver)*
+**[Jovens Cientistas em Ação]**
 Iniciativa voltada para a difusão da tecnologia.
 * **Destaque:** Atuação na facilitação e disseminação da Cultura Maker para diversos municípios da região, levando conhecimentos práticos e incentivando a inovação local.
 
@@ -46,7 +46,6 @@ Iniciativa voltada para a difusão da tecnologia.
 
 **Modelagem & Cultura Maker:**  
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-F06422?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/Corte_a_Laser_CNC-333333?style=for-the-badge" /> *(Ex: RDWorks)*
 
 **Ferramentas & Infraestrutura:**  
@@ -58,7 +57,6 @@ Iniciativa voltada para a difusão da tecnologia.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas do GitHub. Lembre-se de trocar "SEU_USUARIO" pelo seu @ do GitHub nas duas URLs abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
