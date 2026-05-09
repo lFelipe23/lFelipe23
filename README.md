@@ -1,11 +1,4 @@
   # Luis Felipe
-  <!-- Badges de contato -->
-  <a href="mailto:lfso1@discente.ifpe.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/luis-felipe-ads/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/felipe_oliv3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-</div>
-
 ---
 
 Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica sólida consolidada pela minha formação em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
@@ -46,6 +39,16 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 **Ferramentas & Infraestrutura:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+---
+
+## Contato
+ <!-- Badges de contato -->
+  <a href="mailto:lfso1@discente.ifpe.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/luis-felipe-ads/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/felipe_oliv3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
 
 ---
 
