@@ -1,8 +1,8 @@
   # Luis Felipe
 
-> 🤖 **Membro desenvolvedor da Liga de Engenharia de Software | Especialista Prático em Engenharia de Prompts e IAs Generativas.**
+**Software Developer at the Academic Software Engineering League | Hands-on Specialist in Prompt Engineering and Generative AI.**
 
-Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica consolidada pela minha formação em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
+Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica consolidada em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
 
 A engenharia de software vai além de escrever linhas de código. No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos resilientes enquanto contribuo ativamente para a evolução mútua da minha equipe e comunidade acadêmica.
 
