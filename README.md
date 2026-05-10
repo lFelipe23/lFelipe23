@@ -1,7 +1,10 @@
   # Luis Felipe
-Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica sólida consolidada pela minha formação em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
 
-Acredito que a engenharia de software vai além de escrever linhas de código. Como membro ativo da **Liga de Engenharia de Software** e representante de turma, sou conhecido por manter uma comunicação clara e promover um ambiente colaborativo. Minha prioridade é construir projetos resilientes enquanto contribuo para a evolução mútua da minha equipe e comunidade acadêmica.
+> 🤖 **Membro desenvolvedor da Liga de Engenharia de Software | Especialista Prático em Engenharia de Prompts e IAs Generativas.**
+
+Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica consolidada pela minha formação em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
+
+A engenharia de software vai além de escrever linhas de código. No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos resilientes enquanto contribuo ativamente para a evolução mútua da minha equipe e comunidade acadêmica.
 
 🔭 **Foco atual:** Aprimorando conhecimentos em práticas de DevOps, Banco de Dados, Estrutura de Dados e Web.
 
