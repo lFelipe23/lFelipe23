@@ -16,9 +16,8 @@ A engenharia de software vai além de escrever linhas de código. No meu dia a d
 
 Aqui estão algumas das iniciativas em que aplico meus conhecimentos técnicos e acadêmicos:
 
-**Gráficos Táteis para Acessibilidade**
-Projeto de extensão focado na criação de materiais didáticos acessíveis. 
-* **Destaque:** Utilização de conceitos matemáticos e ferramentas de modelagem para desenvolver gráficos e recursos visuais táteis, promovendo a inclusão de pessoas com necessidades específicas de acessibilidade.
+**Weather Dashboard (IoT)** *(Em desenvolvimento)* Projeto focado na visualização de dados meteorológicos coletados por dispositivos de Internet das Coisas (IoT). 
+* **Destaque:** Atuo como líder do projeto, coordenando o desenvolvimento da interface estruturada em Vue.js e a integração com o Firebase, atuando como back-end e banco de dados em tempo real.
 
 **Jovens Cientistas em Ação**
 Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
@@ -37,9 +36,12 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-F06422?style=for-the-badge&logo=autodesk&logoColor=white" />
 <img src="https://img.shields.io/badge/Corte_a_Laser_CNC-333333?style=for-the-badge" /> *(Ex: RDWorks)*
 
-**Ferramentas & Infraestrutura:**  
+**Ferramentas & Infraestrutura:**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+---
 
 ---
 
