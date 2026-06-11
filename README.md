@@ -61,13 +61,13 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://komarev.com/ghpvc/?username=lFelipe23&label=Visitantes&color=38bdf8&style=flat-square" alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=lFelipe23&label=Visitantes&color=38bdf8&style=for-the-badge" alt="Contador de Visitas" />
 
 <br><br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&accent_color=38bdf8&bg_color=0d1117&border_color=30363d&include_all_commits=true" alt="Luis Felipe's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=38bdf8&accent_color=38bdf8&bg_color=0d1117&border_color=30363d" alt="Most Used Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&accent_color=38bdf8&bg_color=0d1117&border_color=30363d&include_all_commits=true" alt="Luis Felipe's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&accent_color=38bdf8&bg_color=0d1117&border_color=30363d" alt="Most Used Languages" height="180px" />
 </p>
 
 ---
