@@ -63,7 +63,7 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&theme=dracula&include_all_commits=true" alt="Luis Felipe's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&theme=dracula" alt="Most Used Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&theme=radical" alt="Most Used Languages" height="180px" />
 </p>
 
 <br>
