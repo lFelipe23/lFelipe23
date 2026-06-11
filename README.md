@@ -32,6 +32,10 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
+**Banco de Dados & Backend:**<br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
 **Modelagem & Cultura Maker:**  
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-F06422?style=for-the-badge&logo=autodesk&logoColor=white" />
 <img src="https://img.shields.io/badge/Corte_a_Laser_CNC-333333?style=for-the-badge" /> *(Ex: RDWorks)*
@@ -57,8 +61,13 @@ Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <!-- Altura fixa (height=150) para impedir que as imagens cortem -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lFelipe23&show_icons=true&theme=dracula&include_all_commits=true" alt="Luis Felipe's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelipe23&layout=compact&theme=dracula" alt="Most Used Languages" height="180px" />
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lFelipe23&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
+
+---
