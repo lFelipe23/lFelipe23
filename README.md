@@ -1,25 +1,23 @@
-  # Luis Felipe
+<h1 align="center">Olá, eu sou o Luis Felipe! 👋</h1>
+<h4 align="center">Software Developer | Specialist in Prompt Engineering and Generative AI</h4>
 
-**Software Developer at the Academic Software Engineering League | Hands-on Specialist in Prompt Engineering and Generative AI.**
+<br>
 
 Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica consolidada em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
 
-A engenharia de software vai além de escrever linhas de código. No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos resilientes enquanto contribuo ativamente para a evolução mútua da minha equipe e comunidade acadêmica.
+No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos inovadores que gerem impacto real.
 
-🔭 **Foco atual:** Aprimorando conhecimentos em práticas de DevOps, Banco de Dados, Estrutura de Dados e Web.
-
-🤝 **Comunidade:** Promovendo a troca de conhecimentos técnicos, organização de equipes e liderança em projetos acadêmicos.
-
+🛠️ **Cultura Maker:** Trago a tecnologia para o mundo físico através da fabricação digital e modelagem.
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 Aqui estão algumas das iniciativas em que aplico meus conhecimentos técnicos e acadêmicos:
 
-**Weather Dashboard (IoT)** *(Em desenvolvimento)* Projeto focado na visualização de dados meteorológicos coletados por dispositivos de Internet das Coisas (IoT). 
-* **Destaque:** Atuo como líder do projeto, coordenando o desenvolvimento da interface estruturada em Vue.js e a integração com o Firebase, atuando como back-end e banco de dados em tempo real.
+**(https://github.com/lesifpe/WeatherDashboard.git)** Focado na visualização de dados meteorológicos coletados por dispositivos de Internet das Coisas (IoT). 
+* **Destaque:** Atuando no desenvolvimento da interface estruturada em Vue.js e a integração com o Firebase, atuando como back-end e banco de dados em tempo real.
 
-**Jovens Cientistas em Ação**
+**Jovens Cientistas em Ação** *(Concluído)*
 Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
 * **Destaque:** Atuação na facilitação e disseminação de tecnologias para diversos municípios da região, levando conhecimentos práticos e incentivando a inovação local.
 
