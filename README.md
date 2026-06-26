@@ -6,7 +6,7 @@ Sou desenvolvedor em formação e atual estudante do 3º período de Análise e 
 
 No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos inovadores que gerem impacto real.
 
-🛠️ Cultura Maker: Trago a tecnologia para o mundo físico através da fabricação digital e modelagem.
+🛠️ Trago a tecnologia para o mundo físico através da fabricação digital e modelagem.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
