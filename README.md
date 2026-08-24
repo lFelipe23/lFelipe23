@@ -2,7 +2,7 @@
 
 **Software Developer | Specialist in Prompt Engineering and Generative AI.**
 
-Sou desenvolvedor em formação e atual estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFPE, contando com uma base técnica consolidada em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
+Sou desenvolvedor em formação e atual estudante do 4º período de Análise e Desenvolvimento de Sistemas no IFPE, com base técnica consolidada em Redes de Computadores. Tenho direcionado meus esforços para entender a fundo o ciclo de vida do software, unindo o desenvolvimento a práticas eficientes. 
 
 No meu dia a dia acadêmico atuo como representante de turma, priorizando uma comunicação clara e um ambiente de trabalho colaborativo. Minha prioridade é construir projetos inovadores que gerem impacto real.
 
@@ -20,7 +20,6 @@ No meu dia a dia acadêmico atuo como representante de turma, priorizando uma co
 
 **Banco de Dados & Backend:**<br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 **Modelagem & Cultura Maker:**  
 <img src="https://img.shields.io/badge/Autodesk_Fusion_360-F06422?style=for-the-badge&logo=autodesk&logoColor=white" />
@@ -36,9 +35,6 @@ No meu dia a dia acadêmico atuo como representante de turma, priorizando uma co
 ## Projetos em Destaque
 
 Aqui estão algumas das iniciativas em que aplico meus conhecimentos técnicos e acadêmicos:
-
-**(https://github.com/lesifpe/WeatherDashboard.git)** Focado na visualização de dados meteorológicos coletados por dispositivos de Internet das Coisas (IoT). 
-* **Destaque:** Atuando no desenvolvimento da interface estruturada em Vue.js e a integração com o Firebase, atuando como back-end e banco de dados em tempo real.
 
 **Jovens Cientistas em Ação** *(Concluído)*
 Iniciativa voltada para a difusão da tecnologia e conhecimento prático.
